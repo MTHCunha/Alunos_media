@@ -1,0 +1,10 @@
+E:\Lista Rosalem\6\6\6\obj\Debug\6.csproj.AssemblyReference.cache
+E:\Lista Rosalem\6\6\6\obj\Debug\6.csproj.SuggestedBindingRedirects.cache
+E:\Lista Rosalem\6\6\6\obj\Debug\EX5___081220002.Form1.resources
+E:\Lista Rosalem\6\6\6\obj\Debug\_6.Properties.Resources.resources
+E:\Lista Rosalem\6\6\6\obj\Debug\6.csproj.GenerateResource.cache
+E:\Lista Rosalem\6\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+E:\Lista Rosalem\6\6\6\bin\Debug\6.exe
+E:\Lista Rosalem\6\6\6\bin\Debug\6.pdb
+E:\Lista Rosalem\6\6\6\obj\Debug\6.exe
+E:\Lista Rosalem\6\6\6\obj\Debug\6.pdb
